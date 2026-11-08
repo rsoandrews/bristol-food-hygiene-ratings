@@ -14,6 +14,7 @@ Contains public sector information licensed under the Open Government Licence v3
    - 'chart.png' – final chart
 
 ## What I found
+  ![Takeaways are the most likely to have a low hygiene rating](chart.png)
 - Takeaways and sandwich shops are the most likely to have a low hygiene rating: 3.1% (12 of 387) were rated 0-2, about double the overall rate of 1.6% (60 of 3,730).
 - They also had the lowest average rating of any business type (4.41 out of 5). Hospitals, childcare and caring premises had the highest (4.93).
 - "Other" retailers (2.4%) and restaurants/cafés/canteens (2.0%) also had above-average shares of low ratings.
